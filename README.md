@@ -66,6 +66,6 @@ oc get pods -n openshift-console
 
 ## Installing the dev console operator on OpenShift 4
 ```
-oc apply -f kubectl create -f http://operatorhubio-operator-hub.devtools-dev.ext.devshift.net/installopenshift4/devconsole.v0.1.0.yaml
+oc apply -f http://operatorhubio-operator-hub.devtools-dev.ext.devshift.net/installopenshift4/devconsole.v0.1.0.yaml
 ```
 
