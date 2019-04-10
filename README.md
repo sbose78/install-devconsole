@@ -1,5 +1,5 @@
 
-#MOVED TO https://github.com/redhat-developer/devconsole-operator/wiki
+# MOVED TO https://github.com/redhat-developer/devconsole-operator/wiki
 
 
 
