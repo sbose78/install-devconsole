@@ -1,3 +1,9 @@
+
+#MOVED TO https://github.com/redhat-developer/devconsole-operator/wiki
+
+
+
+
 ## (Re)Installing OpenShift Console on an OpenShift 4 cluster
 
 
